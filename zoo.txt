@@ -1,0 +1,21 @@
+Index Chart
+Stacked Graph Counts Centered
+Small Multiples
+Horizon graphs
+brushing-and-linking
+Parallel Coordinates
+Flow Maps
+Choropleth Maps
+Dorling cartogram
+Node-Link Diagrams
+Reingold-Tilford algorithm
+dendrogram 
+Adjacency Diagrams
+"sunburst" layout 
+"icicle" layout
+Enclosure diagrams
+Voronoi treemap 
+jigsaw treemap
+Force-Directed Layout
+arc diagram
+adjacency matrix
